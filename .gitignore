@@ -1,0 +1,5 @@
+*.gcode
+*.stl
+*Render.c4d
+!Button Shell With Micro USB.stl
+!Switch Shell With Standoffs and USB Test Revised.stl
