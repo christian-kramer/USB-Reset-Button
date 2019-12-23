@@ -39,7 +39,7 @@ Here's an up-close look at the perfboard connections. I decided against making a
 
 ![Close-up](https://i.imgur.com/UEcuiMO.jpg)
 
-And here's an up-close look at the  USB connectors. Just like in the 3D model, they fit perfectly!
+And here's an up-close look at the  USB connectors. Just like in the 3D model, they fit perfectly! I specifically designed it to fit my friend's computer desk setup. As shown in the first image at the very top, her webcam is to the left of the computer, so I put the plug for the webcam on the left side of the button, and the plug for the computer on the right side. This way, no wires have to cross.
 
 ![USB](https://i.imgur.com/Yv56Al5.jpg)
 
